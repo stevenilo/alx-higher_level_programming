@@ -2,6 +2,6 @@
 
 str = "Holberton School"
 
-print(
-    f"{3*str}\n"
-    f"{str[0:9]}\n")
+print(str*3)
+
+print(str[:9])
