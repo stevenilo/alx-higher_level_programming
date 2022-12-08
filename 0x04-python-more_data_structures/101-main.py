@@ -1,10 +1,7 @@
 #!/usr/bin/python3
 
 square_matrix_map = \
-
     __import__('101-square_matrix_map').square_matrix_map
-
-
 
 matrix = [
 
@@ -15,8 +12,6 @@ matrix = [
     [7, 8, 9]
 
 ]
-
-
 
 new_matrix = square_matrix_map(matrix)
 
